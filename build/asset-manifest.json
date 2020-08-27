@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22cb409f.chunk.css",
+    "main.js": "/static/js/main.7414e8c1.chunk.js",
+    "main.js.map": "/static/js/main.7414e8c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc62a17d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc62a17d.js.map",
+    "static/css/2.0624914a.chunk.css": "/static/css/2.0624914a.chunk.css",
+    "static/js/2.e943d114.chunk.js": "/static/js/2.e943d114.chunk.js",
+    "static/js/2.e943d114.chunk.js.map": "/static/js/2.e943d114.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0c825f8908579a9a87dd72f6dbb439d.js": "/precache-manifest.e0c825f8908579a9a87dd72f6dbb439d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.22cb409f.chunk.css.map": "/static/css/main.22cb409f.chunk.css.map",
+    "static/media/App.css": "/static/media/karate-background-academy.4b2fb5c1.png",
+    "static/media/karate.png": "/static/media/karate.70271d68.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc62a17d.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.e943d114.chunk.js",
+    "static/css/main.22cb409f.chunk.css",
+    "static/js/main.7414e8c1.chunk.js"
+  ]
+}
